@@ -2,4 +2,4 @@
 
 ## Sobre 
 
-Desenvolvimento de API Rest para controle de ponto e acesso de uma empresa. Criado usando Java, Spring Boot, Hibernate Envers e Lombok, além de domcunetação da API com Swagger.
+Desenvolvimento de API Rest para controle de ponto e acesso de uma empresa. Criado usando Java, Spring Boot, Hibernate Envers e Lombok, além de documentação da API com Swagger.
